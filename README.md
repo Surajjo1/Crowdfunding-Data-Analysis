@@ -20,15 +20,15 @@ ___
 <h3>📊 Tableau Visualizations</h3>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Surajjo1/Crowdfunding-Data-Analysis/52580791e475d5abfdc78e5ea8531aac114ab5d3/Tableau1.png" width="800"/>
+  <img src="https://raw.githubusercontent.com/Surajjo1/Crowdfunding-Data-Analysis/52580791e475d5abfdc78e5ea8531aac114ab5d3/Tableau1.png" width="500"/>
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Surajjo1/Crowdfunding-Data-Analysis/134359085064c0f47bca67b4e091d3273f9d55ff/Tableau2.png" width="800"/>
+  <img src="https://raw.githubusercontent.com/Surajjo1/Crowdfunding-Data-Analysis/134359085064c0f47bca67b4e091d3273f9d55ff/Tableau2.png" width="500"/>
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Surajjo1/Crowdfunding-Data-Analysis/134359085064c0f47bca67b4e091d3273f9d55ff/Tableau3.png" width="800"/>
+  <img src="https://raw.githubusercontent.com/Surajjo1/Crowdfunding-Data-Analysis/134359085064c0f47bca67b4e091d3273f9d55ff/Tableau3.png" width="500"/>
 </p>
 ___
 
