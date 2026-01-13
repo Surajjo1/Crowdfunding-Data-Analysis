@@ -17,8 +17,21 @@
   Total Number of Projects created by Year , Quarter , Month
 
 ___
-https://github.com/Surajjo1/Crowdfunding-Data-Analysis/blob/52580791e475d5abfdc78e5ea8531aac114ab5d3/Tableau1.png
----
+<h3>📊 Tableau Visualizations</h3>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Surajjo1/Crowdfunding-Data-Analysis/52580791e475d5abfdc78e5ea8531aac114ab5d3/Tableau1.png" width="800"/>
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Surajjo1/Crowdfunding-Data-Analysis/134359085064c0f47bca67b4e091d3273f9d55ff/Tableau2.png" width="800"/>
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Surajjo1/Crowdfunding-Data-Analysis/134359085064c0f47bca67b4e091d3273f9d55ff/Tableau3.png" width="800"/>
+</p>
+___
+
 <h2 align="center">SUCCESS ANALYSIS</h2>
 <br>
 <table width="100%">
