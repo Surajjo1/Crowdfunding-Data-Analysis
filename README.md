@@ -57,7 +57,7 @@
 </tr>
 </table>
 <br>
-<table width="100%" border="1" cellpadding="18">
+<table width="55%" border="1" cellpadding="18">
 <tr>
 <td align="center">
 <b>SUCCESSFUL PROJECT</b><br><br>
