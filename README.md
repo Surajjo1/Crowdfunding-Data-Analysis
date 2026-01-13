@@ -18,9 +18,7 @@
 
 ---
 <h2 align="center">SUCCESS ANALYSIS</h2>
-
 <br>
-
 <table width="100%">
 <tr>
 <td width="55%" valign="top">
@@ -58,9 +56,7 @@
 </td>
 </tr>
 </table>
-
 <br>
-
 <table width="100%" border="1" cellpadding="18">
 <tr>
 <td align="center">
