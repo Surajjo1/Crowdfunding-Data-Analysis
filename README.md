@@ -17,8 +17,7 @@
   Total Number of Projects created by Year , Quarter , Month
 
 ---
-<h1 align="center">ANALYSIS</h1>
-<h2 align="center">SUCCESS ANALYSIS</h2>
+<h2 align="center" color ="blue" >SUCCESS ANALYSIS</h2>
 
 <br>
 
