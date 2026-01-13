@@ -10,7 +10,7 @@
 </p>
 
 ---
-<h3 align="Left">KPI’s</h3>
+<h3 align="Left"> ⛳︎ KPI’s</h3>
  Total Number of Projects based on outcome 
   Total Number of Projects based on Locations
   Total Number of Projects based on  Category
